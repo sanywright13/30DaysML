@@ -18,4 +18,4 @@ The project is organized as follows:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/sanywright13/30DaysML/)https://github.com/sanywright13/30DaysML
+   git clone https://github.com/sanywright13/30DaysML
